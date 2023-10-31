@@ -4,3 +4,6 @@ This is a repository to gain familiarity with git and Github.
 ### Git Commands
 * git clone 
 * git checkout
+* git checkout -b
+* git branch
+* git status
